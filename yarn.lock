@@ -5618,9 +5618,9 @@ finalsa-bulma-dark@^0.9.3:
   integrity sha512-Y7NoCm1qPwfGp2qTX2GQBJ5Owg1qwS49/AIrbgEK08BuDF0l+KT0Wkg+7svdbAO9eF9Y2Q8X/XVN/vz/aczrsA==
 
 finalsa-react-components@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/finalsa-react-components/-/finalsa-react-components-1.0.2.tgz#ed2524d75137b6ed6d156c1ee140caa8d5a5a5f7"
-  integrity sha512-OkU/iibwwTcfASjBOoICDeaIAjUxuRtdkLVxA1NJnKFf15gmbPqmIwNlnbOC7C2BQ8y2SA+ET7W3ziHIlUV+eg==
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/finalsa-react-components/-/finalsa-react-components-1.0.3.tgz#c8376677911fb710c72663bea67a33c04047e386"
+  integrity sha512-17Z0wSeNaRME3XwfmWGXcodrTvwckFl7H2Z7+rxqirrminZ5oYjRbVKjE9JjHDe2HsZWgq3D9FWXKTICgAH2Tw==
   dependencies:
     finalsa-bulma-dark "^0.9.3"
 
